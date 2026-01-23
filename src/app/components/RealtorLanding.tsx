@@ -39,21 +39,21 @@ export function RealtorLanding() {
 
   const portfolio = [
     {
-      image: 'https://trizio.ru/img-srv01/082017/img_post/top_469.jpg',
+      image: '/home1.jpg',
       title: 'Квартира для молодой семьи',
       status: 'Продано за 3 дня',
       price: '8.5 млн ₽',
       story: 'Семья с новорожденным искала квартиру у метро. Нашла идеальную новостройку с детской площадкой - переехали через неделю!',
     },
     {
-      image: 'https://www.eremont.ru/gallery/apartments/104-odnokomnatnaya-kvartira-dlya-molodoy-supruzheskoy-pary/photos/fhd/belosnezhnaya-tumbochka-s-uzorom-v-polosku-dlya-prikhozhey.jpg',
+      image: '/home2.jpg',
       title: 'Срочная продажа - успели!',
       status: 'Продано за 1 неделю',
       price: '12.8 млн ₽',
       story: 'Клиенту срочно нужны были деньги. Организовала 15 показов за 5 дней, нашла покупателя по полной цене!',
     },
     {
-      image: 'https://images.unsplash.com/photo-1612419299101-6c294dc2901d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3p5JTIwYXBhcnRtZW50JTIwbGl2aW5nJTIwcm9vbXxlbnwxfHx8fDE3Njg3NDU0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: '/home3.jpg',
       title: 'С котиками - без проблем!',
       status: 'Продано',
       price: '6.2 млн ₽',
@@ -133,7 +133,7 @@ export function RealtorLanding() {
             <div className="relative">
               <div className="relative w-full aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://sun9-10.userapi.com/s/v1/ig2/hVeqEQ0cjOdW3xjUu3KwQ9YEQWe-L9eIcFUqHlq0I7V9fmjDjqL6Efc8NbKZyJRhzDIbdArhMMHthUkYxOtFAwou.jpg?quality=95&as=32x57,48x85,72x128,108x192,160x284,240x427,360x640,480x853,540x960,640x1138,720x1280,1080x1920,1280x2276,1440x2560&from=bu&cs=1440x0"
+                  src="/irina.jpg"
                   alt="Черешенко Ирина"
                   className="w-full h-full object-cover"
                 />
