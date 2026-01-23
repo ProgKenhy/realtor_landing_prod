@@ -134,7 +134,7 @@ export function RealtorLanding() {
               <div className="relative w-full aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
                 <img
                   src="https://sun9-10.userapi.com/s/v1/ig2/hVeqEQ0cjOdW3xjUu3KwQ9YEQWe-L9eIcFUqHlq0I7V9fmjDjqL6Efc8NbKZyJRhzDIbdArhMMHthUkYxOtFAwou.jpg?quality=95&as=32x57,48x85,72x128,108x192,160x284,240x427,360x640,480x853,540x960,640x1138,720x1280,1080x1920,1280x2276,1440x2560&from=bu&cs=1440x0"
-                  alt="Анна Петрова"
+                  alt="Черешенко Ирина"
                   className="w-full h-full object-cover"
                 />
               </div>
